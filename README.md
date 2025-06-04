@@ -1,4 +1,4 @@
-# AONPRD Crawler
+# AONPRD Scraper
 As of now, this is just a simple script to scrape all the PF2 monster images from the [Archives of Nethys](https://2e.aonprd.com/) for use in your VTT of choice.
 
 Note that, at present, the images are `.webp` so if your VTT can't handle that, you'll need to convert them.
